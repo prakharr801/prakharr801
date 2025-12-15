@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!-- HERO SECTION -->
 <h1 align="center">
   Hi there 👋, I'm <span style="color:#6C63FF;">Prakhar Raj</span>
