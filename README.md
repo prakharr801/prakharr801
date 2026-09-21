@@ -1,105 +1,204 @@
-
 <!-- HERO SECTION -->
+
 <h1 align="center">
-  Hi there 👋, I'm <span style="color:#6C63FF;">Prakhar Raj</span>
+  Hi 👋, I'm <span style="color:#6C63FF;">Prakhar Raj</span>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+Student+%40+AAFT;Transforming+Raw+Data+Into+Insights;Machine+Learning+%7C+Python+%7C+AI;Building+Healio+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<h3 align="center">
+  Data Analyst | SQL | Python | Power BI | Excel
+</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Data+Analyst;Turning+Business+Data+Into+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Building+Data+Analytics+Projects;Learning+%26+Improving+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 👨‍💻 About Me
 
-- 🎓 **AAFT Data Science Student**
-- 🔭 Currently building **Healio** – *AI-powered health report assistant*
-- 🌱 Learning **Data Science, Machine Learning & AI**
-- 💡 Passionate about turning **data into decisions**
-- 👨‍💻 Exploring real-world ML & analytics projects  
+I'm a **Data Analyst** with hands-on experience working with business and operational data.
+
+I work with **SQL, Python, Power BI, Excel, and Looker Studio** to clean data, analyze trends, build dashboards, track KPIs, and support data-driven business decisions.
+
+🎓 Diploma in Data Science – AAFT
+
+💼 Data Analyst at Sacred Sourcing Solutions Pvt. Ltd.
+
+📊 Interested in Data Analytics, Business Intelligence, and Business Analysis
+
+🚀 Currently building practical end-to-end analytics projects
+
+🌱 Continuously improving my SQL, Python, Power BI, and analytical skills
 
 ---
 
-## 🔗 Connect With Me  
+## 💼 Professional Experience
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/prakhar-raj-393114327/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Prakhar%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="mailto:rajp69729@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Data Analyst — Sacred Sourcing Solutions Pvt. Ltd.
+
+**Feb 2026 – Present**
+
+- Developed business dashboards and KPI reports using Excel, SQL, and Power BI
+- Analyzed import/export business data to identify customers, suppliers, and market trends
+- Built enquiry, purchase order, shipment, invoice, and payment tracking systems
+- Prepared commercial pricing models using FX rates, import costs, and margin analysis
+- Automated recurring MIS reporting workflows
+- Created dashboards to monitor operational KPIs and business performance
+- Supported sales and procurement teams with data-driven insights
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Data Analysis
 
 <p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRmdm56aHZ2NG01YW03NjJtNWFtd3hsY3ZrZnp0bHBrNjE1eTJqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55"/>
 </p>
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Validation
+- Exploratory Data Analysis
+- Data Processing
+
+### Business Intelligence & Visualization
+
+- Power BI
+- Excel
+- Power Query
+- Looker Studio
+- Dashboard Development
+- KPI Reporting
+- Business Reporting
+- Data Visualization
+
+### Machine Learning & NLP
+
+- Machine Learning
+- Regression
+- NLP
+- Text Preprocessing
+- Resume Parsing
+- Keyword Extraction
+
+### Business & ERP Tools
+
+- Odoo ERP
+- CRM
+- Sales & Purchase Management
+- Inventory Management
+- Commercial Data Analysis
 
 ---
 
-## 🧠 Languages & Tools  
+## 📊 Featured Projects
 
-<p align="center">
+### 📈 Marketing Campaign Performance Analysis
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" />
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" />
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" />
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" />
+**Python | SQL | Power BI**
 
-</p>
+End-to-end analytics project focused on understanding campaign performance, customer engagement, conversions, and business KPIs.
 
----
-
-## 📂 Projects  
-
-- 🧠 **Healio** – AI assistant to simplify medical reports using ML & NLP  
-- 📊 Data Analysis & Visualization dashboards  
-- 🤖 Machine Learning prediction models  
-- ☁️ Cloud-based data workflows (AWS)  
-
-👉 **Check all projects here:**  
-🔗 [GitHub Repositories](https://github.com/prakharr801?tab=repositories)
+**Key areas:**
+- Data cleaning using Python
+- Exploratory Data Analysis
+- SQL-based business analysis
+- Campaign performance metrics
+- Customer segmentation
+- Power BI dashboard
+- KPI and trend analysis
 
 ---
 
-## 📈 GitHub Stats  
+### 📦 Purchase Order & Shipment Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakharr801&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharr801&theme=tokyonight" height="160"/>
-</p>
+**Excel | Power BI**
+
+Dashboard designed to monitor:
+
+- Purchase Order status
+- Shipment status
+- ETA
+- Invoice status
+- Payment tracking
+- Delivery performance
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-</p>
+### 🌍 Import Market Intelligence Dashboard
 
-<h3 align="center">✨ Building. Learning. Shipping. ✨</h3>
+**Excel | Power Query | Power BI**
 
+Dashboard focused on analyzing import data to identify:
 
-<!--
-**prakharr801/prakharr801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Target customers
+- Suppliers
+- Import trends
+- Product-level insights
+- Market opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📋 Sales & Enquiry Tracker
+
+**Excel | Power Query**
+
+End-to-end enquiry tracking system covering:
+
+- Customer enquiries
+- Product requirements
+- Quotations
+- Follow-ups
+- Order status
+- Business pipeline
+
+---
+
+### 🏠 House Price Prediction
+
+**Python | Pandas | NumPy | Scikit-learn**
+
+Machine learning project focused on predicting house prices using regression techniques.
+
+---
+
+### 📊 Sales Forecasting
+
+**Python | Machine Learning**
+
+Developed a forecasting model to analyze historical sales data and estimate future sales trends.
+
+---
+
+### 🎬 Netflix Trends Dashboard
+
+**Power BI | Data Visualization**
+
+Interactive dashboard analyzing Netflix content across categories, countries, ratings, and release trends.
+
+---
+
+## 📈 My Analytics Stack
+
+```text
+                    DATA ANALYTICS
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+        Python          SQL           Excel
+          │              │              │
+       Pandas         MySQL        Power Query
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                    POWER BI
+                         │
+                  DASHBOARDS
+                         │
+                  BUSINESS INSIGHTS
+
